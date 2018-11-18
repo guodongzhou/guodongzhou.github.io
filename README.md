@@ -1,10 +1,10 @@
 ## BASIC INFORMATION
 
-Name: Guodong Zhou（周国栋）     Birthday: 1993.11.04
+Name: Guodong Zhou（周国栋）      Birthday: 1993.11.04
 
-Gender: Male                     Residence: Hangzhou, Zhejiang
+Gender: Male                      Residence: Hangzhou, Zhejiang
 
-### Markdown
+## EDUCATION BACKGROUND
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
