@@ -1,12 +1,12 @@
 ## BASIC INFORMATION
 
-Name: Guodong Zhou（周国栋）&nbsp;&nbsp;&nbsp;&nbsp;Birthday: 1993.11.04
+Name: Guodong Zhou（周国栋）&nbsp;&nbsp;&nbsp;&nbsp;&ensp;Birthday: 1993.11.04
 
 Gender: Male&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Residence: Hangzhou, Zhejiang
 
 ## EDUCATION BACKGROUND
 
-2016.09 - now&ensp;&ensp;&ensp;&ensp;Polymer Materials, Zhejiang University&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Master’s Degree
+2016.09 - now&ensp;&ensp;&ensp;&ensp;Polymer Materials, Zhejiang University&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Master’s Degree
 
 2012.09 - 2016.06 Polymer Materials and Engineering, Zhejiang University&ensp;&ensp;&ensp;Bachelor’s Degree
 
