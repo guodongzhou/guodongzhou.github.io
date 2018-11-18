@@ -14,8 +14,19 @@ Gender: Male&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&e
 * Ranking: top 15%
 *	Outstanding Graduates of Zhejiang University
 
+## RESEARCH EXPERIENCES
 
+*	Fabrication of multi-layered film through layer-by-layer self-assembly for gene delivery
+*	Preparation of epoxy-based nanocomposites using phase transfer method
+*	Preparation of functionalized aramid nanofibers
 
+## PUBLICATIONS
+
+[1] <b>Guodong Zhou</b>, Huichao Yao, Yang Zhou, Weitao Wang, Mao Peng. Self-assembled complexes of graphene oxide and oxidized vapor-grown carbon fiber for simultaneously enhancing the strength and toughness of epoxy and multi-scale carbon fiber/epoxy composites. *Carbon*. 2018;137:6-18.
+
+[2] <b>Guodong Zhou</b>, Weitao Wang, Mao Peng. Functionalized Aramid Nanofibers Prepared by Polymerization Induced Self-Assembly for Simultaneously Reinforcing and Toughening of Epoxy and Carbon Fiber/Epoxy Multiscale Composite. *Composites Science and Technology*. 2018;168:312-319.
+
+[3] <b>Guodong Zhou</b>, Weitao Wang, Mao Peng. Rigid-rod sulfonated aromatic polyamides/epoxy molecular composites with extraordinarily improved strength and toughness. (submitted to *Polymer*, under revision)
 
 
 
