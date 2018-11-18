@@ -41,3 +41,5 @@ TOEFL-iBT: 111 (Reading-29, Listening-30, Speaking-22, Writing-30)
 CET-6: 612
 
 IT skills: C programming, Python programming, 3ds Max modeling
+
+Sports: bodybuilding (4th of Men's Physique, 2018 Bodybuilding Competition of Zhejiang University)
