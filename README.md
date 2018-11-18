@@ -1,12 +1,12 @@
 ## EDUCATION BACKGROUND
 
-#### 2016.09 - now&ensp;&ensp;&ensp;&ensp;Master’s Degree
+#### 2016.09 - 2019.03 &ensp;Master of Engineering
 
 * Polymer Materials, Zhejiang University
 
-#### 2012.09 - 2016.06 &ensp;Bachelor’s Degree
+#### 2012.09 - 2016.06 &ensp;Bachelor of Engineering
 
-* Polymer Materials and Engineering, Zhejiang University
+* Macromolecular Materials and Engineering, Zhejiang University
 
   *	GPA: 3.81/4.0
   * Ranking: top 15%
