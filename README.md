@@ -22,11 +22,11 @@
 
 [3] <b>Guodong Zhou</b>, Weitao Wang, Mao Peng*. Rigid-rod sulfonated aromatic polyamides/epoxy molecular composites with extraordinarily improved strength and toughness. (submitted to *Polymer*, under revision)
 
-[4] Yao Huichao, <b>Zhou Guodong</b>, Wang Weitao, Peng Mao*. Silica nanoparticle-decorated alumina rough platelets for effective reinforcement of epoxy and hierarchical carbon fiber/epoxy composites. *Composites Part A: Applied Science and Manufacturing*. 2018;110:53-61.
+[4] Huichao Yao, <b>Guodong Zhou</b>, Weitao Wang, Mao Peng*. Silica nanoparticle-decorated alumina rough platelets for effective reinforcement of epoxy and hierarchical carbon fiber/epoxy composites. *Composites Part A: Applied Science and Manufacturing*. 2018;110:53-61.
 
-[5] Yao Huichao, <b>Zhou Guodong</b>, Wang Weitao, Peng Mao*. Effect of polymer-grafted carbon nanofibers and nanotubes on the interlaminar shear strength and flexural strength of carbon fiber/epoxy multiscale composites. *Composite Structures*. 2018;195:288-96.
+[5] Huichao Yao, <b>Guodong Zhou</b>, Weitao Wang, Mao Peng*. Effect of polymer-grafted carbon nanofibers and nanotubes on the interlaminar shear strength and flexural strength of carbon fiber/epoxy multiscale composites. *Composite Structures*. 2018;195:288-96.
 
-[6] Peng Mao*, Zhou Yang, <b>Zhou Guodong</b>, Yao Huichao. Triglycidyl para-aminophenol modified montmorillonites for epoxy nanocomposites and multi-scale carbon fiber reinforced composites with superior mechanical properties. *Composites Science and Technology*. 2017;148(Supplement C):80-8.
+[6] Mao Peng*, Yang Zhou, <b>Guodong Zhou</b>, Huichao Yao. Triglycidyl para-aminophenol modified montmorillonites for epoxy nanocomposites and multi-scale carbon fiber reinforced composites with superior mechanical properties. *Composites Science and Technology*. 2017;148(Supplement C):80-8.
 
 ## RESEARCH INTERESTS
 
