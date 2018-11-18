@@ -29,12 +29,15 @@ Gender: Male&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&e
 [3] <b>Guodong Zhou</b>, Weitao Wang, Mao Peng. Rigid-rod sulfonated aromatic polyamides/epoxy molecular composites with extraordinarily improved strength and toughness. (submitted to *Polymer*, under revision)
 
 ## RESEARCH INTERESTS
+
 *	Lithium ion batteries
 *	Sodium ion batteries
 *	Zinc ion batteries
 
+## LANGUAGE SKILLS & OTHER SKILLS
 
+TOEFL-iBT: 111 (Reading-29, Listening-30, Speaking-22, Writing-30)
 
+CET-6: 612
 
-
-
+IT skills: C programming, Python programming, 3ds Max modeling
