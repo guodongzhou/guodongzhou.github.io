@@ -1,7 +1,8 @@
 ## BASIC INFORMATION
 
-Name: Guodong Zhou（周国栋）		Birthday: 1993.11.04
-Gender: Male							Residence: Hangzhou, Zhejiang
+Name: Guodong Zhou（周国栋）     Birthday: 1993.11.04
+
+Gender: Male                     Residence: Hangzhou, Zhejiang
 
 ### Markdown
 
