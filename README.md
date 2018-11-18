@@ -6,6 +6,23 @@ Gender: Male&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&e
 
 ## EDUCATION BACKGROUND
 
+2016.09 - now&ensp;&ensp;&ensp;&ensp;Polymer Materials, Zhejiang University&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Master’s Degree
+
+2012.09 - 2016.06 Polymer Materials and Engineering, Zhejiang University&ensp;&ensp;&ensp;Bachelor’s Degree
+
+*	GPA: 3.81/4.0
+* Ranking: top 15%
+*	Outstanding Graduates of Zhejiang University
+
+
+
+
+
+
+
+
+
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
