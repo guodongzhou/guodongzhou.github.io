@@ -14,6 +14,8 @@ Gender: Male&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&e
 * Ranking: top 15%
 *	Outstanding Graduates of Zhejiang University
 
+* GPA: 3.81/4.0 | * Ranking: top 15% | *	Outstanding Graduates of Zhejiang University
+
 ## RESEARCH EXPERIENCES
 
 *	Fabrication of multi-layered film through layer-by-layer self-assembly for gene delivery
