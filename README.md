@@ -2,15 +2,15 @@
 
 #### 2016.09 - now&ensp;&ensp;&ensp;&ensp;Master’s Degree
 
-Polymer Materials, Zhejiang University
+* Polymer Materials, Zhejiang University
 
 #### 2012.09 - 2016.06 &ensp;Bachelor’s Degree
 
-Polymer Materials and Engineering, Zhejiang University
+* Polymer Materials and Engineering, Zhejiang University
 
-*	GPA: 3.81/4.0
-* Ranking: top 15%
-*	Outstanding Graduates of Zhejiang University
+  *	GPA: 3.81/4.0
+  * Ranking: top 15%
+  *	Outstanding Graduates of Zhejiang University
 
 ## RESEARCH EXPERIENCES
 
