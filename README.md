@@ -2,7 +2,7 @@
 
 Name: Guodong Zhou（周国栋）&nbsp;&nbsp;&nbsp;&nbsp;Birthday: 1993.11.04
 
-Gender: Male&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Residence: Hangzhou, Zhejiang
+Gender: Male&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Residence: Hangzhou, Zhejiang
 
 ## EDUCATION BACKGROUND
 
