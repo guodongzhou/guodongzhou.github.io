@@ -42,7 +42,7 @@
 
 * C programming, Python programming, MATLAB
 * machine learning, Scikit-learn
-* HTML, 3ds Max modeling, OriginLab
+* HTML, 3ds Max modeling, OriginLab, data visualization
 
 ## LANGUAGE SKILLS & OTHER SKILLS
 
