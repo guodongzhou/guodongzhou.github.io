@@ -38,12 +38,16 @@
 *	Sodium ion batteries
 *	Zinc ion batteries
 
+## IT skills
+
+* C programming, Python programming, MATLAB
+* machine learning, Scikit-learn
+* HTML, 3ds Max modeling, OriginLab
+
 ## LANGUAGE SKILLS & OTHER SKILLS
 
-TOEFL-iBT: 111 (Reading-29, Listening-30, Speaking-22, Writing-30)
+* TOEFL-iBT: 111 (Reading-29, Listening-30, Speaking-22, Writing-30)
 
-CET-6: 612
+* CET-6: 612
 
-IT skills: C programming, Python programming, MATLAB, machine learning, 3ds Max modeling
-
-Sports: bodybuilding (4th of Men's Physique, 2018 Bodybuilding Competition of Zhejiang University), powerlifting
+* Sports: bodybuilding (4th of Men's Physique, 2018 Bodybuilding Competition of Zhejiang University), powerlifting
