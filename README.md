@@ -20,11 +20,11 @@
 
 ## PUBLICATIONS
 
-[1] <b>Guodong Zhou</b>, Huichao Yao, Yang Zhou, Weitao Wang, Mao Peng. Self-assembled complexes of graphene oxide and oxidized vapor-grown carbon fiber for simultaneously enhancing the strength and toughness of epoxy and multi-scale carbon fiber/epoxy composites. *Carbon*. 2018;137:6-18.
+[1] <b>Guodong Zhou</b>, Weitao Wang, Mao Peng. Molecular-level dispersion of rigid-rod sulfonated aromatic polyamides in epoxy resin for extraordinary improvement in both strength and toughness. *Polymer*. 2019;163:20-28.
 
 [2] <b>Guodong Zhou</b>, Weitao Wang, Mao Peng. Functionalized Aramid Nanofibers Prepared by Polymerization Induced Self-Assembly for Simultaneously Reinforcing and Toughening of Epoxy and Carbon Fiber/Epoxy Multiscale Composite. *Composites Science and Technology*. 2018;168:312-319.
 
-[3] <b>Guodong Zhou</b>, Weitao Wang, Mao Peng. Molecular-level dispersion of rigid-rod sulfonated aromatic polyamides in epoxy resin for extraordinary improvement in both strength and toughness. *Polymer*. 2019;163:20-28.
+[3] <b>Guodong Zhou</b>, Huichao Yao, Yang Zhou, Weitao Wang, Mao Peng. Self-assembled complexes of graphene oxide and oxidized vapor-grown carbon fiber for simultaneously enhancing the strength and toughness of epoxy and multi-scale carbon fiber/epoxy composites. *Carbon*. 2018;137:6-18.
 
 [4] Huichao Yao, <b>Guodong Zhou</b>, Weitao Wang, Mao Peng. Silica nanoparticle-decorated alumina rough platelets for effective reinforcement of epoxy and hierarchical carbon fiber/epoxy composites. *Composites Part A: Applied Science and Manufacturing*. 2018;110:53-61.
 
