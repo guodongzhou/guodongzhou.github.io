@@ -15,7 +15,9 @@
 ## RESEARCH EXPERIENCES
 
 *	Fabrication of multi-layered film through layer-by-layer self-assembly for gene delivery
+
 *	Preparation of epoxy-based nanocomposites using phase transfer method
+
 *	Preparation of functionalized aramid nanofibers
 
 ## PUBLICATIONS
