@@ -32,12 +32,6 @@
 
 [6] Mao Peng, Yang Zhou, <b>Guodong Zhou</b>, Huichao Yao. Triglycidyl para-aminophenol modified montmorillonites for epoxy nanocomposites and multi-scale carbon fiber reinforced composites with superior mechanical properties. *Composites Science and Technology*. 2017;148(Supplement C):80-8.
 
-## RESEARCH INTERESTS
-
-*	Lithium ion batteries
-*	Sodium ion batteries
-*	Zinc ion batteries
-
 ## IT skills
 
 * C programming, Python programming, MATLAB, HTML
