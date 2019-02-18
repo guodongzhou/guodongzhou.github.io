@@ -35,7 +35,9 @@
 ## IT skills
 
 * C programming, Python programming, MATLAB, HTML
+
 * machine learning, Scikit-learn
+
 * 3ds Max modeling, OriginLab, data visualization
 
 ## LANGUAGE SKILLS & OTHER SKILLS
