@@ -42,6 +42,8 @@
 
 * 3ds Max modeling, OriginLab, data visualization
 
+* Blogs: https://blog.csdn.net/weixin_43957391
+
 ## LANGUAGE SKILLS & OTHER SKILLS
 
 * TOEFL-iBT: 111 (Reading-29, Listening-30, Speaking-22, Writing-30)
