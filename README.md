@@ -42,7 +42,7 @@
 
 * 3ds Max modeling, OriginLab, data visualization
 
-* Blogs: https://blog.csdn.net/weixin_43957391
+* Blogs: <a href='https://blog.csdn.net/weixin_43957391'>CSDN</a>
 
 ## LANGUAGE SKILLS & OTHER SKILLS
 
