@@ -4,6 +4,9 @@
 
 * Polymer Materials, Zhejiang University
 
+  * Published 3 SCI papers as first author (total IF: 15)
+  *	Outstanding Graduates of Zhejiang University
+
 #### 2012.09 - 2016.06 &ensp;Bachelor of Engineering
 
 * Macromolecular Materials and Engineering, Zhejiang University
