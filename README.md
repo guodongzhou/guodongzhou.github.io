@@ -41,9 +41,9 @@
 
 ## IT skills
 
-* C programming, Python programming, MATLAB, HTML
+* C programming, Python programming, MATLAB, HTML, CSS
 
-* machine learning, Scikit-learn
+* machine learning, deep learning, Scikit-learn, PyTorch
 
 * 3ds Max modeling, OriginLab, data visualization
 
