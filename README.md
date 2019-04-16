@@ -17,11 +17,13 @@
 
 ## RESEARCH EXPERIENCES
 
-*	Fabrication of multi-layered film through layer-by-layer self-assembly for gene delivery
+* Preparation of molecular composites
+
+*	Preparation of functionalized aramid nanofibers
 
 *	Preparation of epoxy-based nanocomposites using phase transfer method
 
-*	Preparation of functionalized aramid nanofibers
+*	Fabrication of multi-layered film through layer-by-layer self-assembly for gene delivery
 
 ## PUBLICATIONS
 
