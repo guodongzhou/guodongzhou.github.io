@@ -1,5 +1,9 @@
 ## EDUCATION BACKGROUND
 
+#### 2019.09 - now Ph.D.
+
+* Mechanical Engineering, Hong Kong University of Science and Technology
+
 #### 2016.09 - 2019.03 &ensp;Master of Engineering
 
 * Polymer Materials, Zhejiang University
