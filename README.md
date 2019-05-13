@@ -1,6 +1,6 @@
 ## EDUCATION BACKGROUND
 
-#### 2019.09 - now &ensp;&ensp;&ensp;&ensp;Ph.D.
+#### 2019.09 - now &ensp;&ensp;&ensp;&ensp;Ph.D. student
 
 * Mechanical Engineering, Hong Kong University of Science and Technology
 
@@ -51,7 +51,7 @@
 
 * 3ds Max modeling, OriginLab, data visualization
 
-* Blogs: <a href='https://blog.csdn.net/weixin_43957391'>CSDN (link)</a>
+* Blogs: <a href='https://blog.csdn.net/weixin_43957391'>CSDN</a>
 
 ## LANGUAGE SKILLS & OTHER SKILLS
 
