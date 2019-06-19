@@ -1,8 +1,8 @@
 ## EDUCATION BACKGROUND
 
-#### 2019.09 - now &ensp;&ensp;&ensp;&ensp;Ph.D. student
+#### 2019.06 - now &ensp;&ensp;&ensp;&ensp;Ph.D. student
 
-* Mechanical Engineering, Hong Kong University of Science and Technology
+* Mechanical Engineering, The Hong Kong University of Science and Technology
 
 #### 2016.09 - 2019.03 &ensp;Master of Engineering
 
