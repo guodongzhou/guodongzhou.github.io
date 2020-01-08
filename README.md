@@ -19,15 +19,17 @@
   * Ranking: top 15%
   *	Outstanding Graduates of Zhejiang University
 
-## RESEARCH EXPERIENCES
+## RESEARCHES
 
-* Preparation of molecular composites
+* Lithium ion batteries/ lithium metal batteries
 
-*	Preparation of functionalized aramid nanofibers
+* Molecular composites
 
-*	Preparation of epoxy-based nanocomposites using phase transfer method
+*	Functionalized aramid nanofibers
 
-*	Fabrication of multi-layered film through layer-by-layer self-assembly for gene delivery
+*	Epoxy-based nanocomposites prepared with phase transfer method
+
+*	Multi-layered film through layer-by-layer self-assembly for gene delivery
 
 ## PUBLICATIONS
 
