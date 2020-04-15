@@ -21,7 +21,11 @@
 
 ## RESEARCHES
 
-* Lithium ion batteries/ lithium metal batteries
+* First principle calculation/density functional theory
+
+* Sodium ion batteries
+
+* Lithium ion batteries/ lithium metal batteries/ lithium sulfur batteries
 
 * Molecular composites
 
