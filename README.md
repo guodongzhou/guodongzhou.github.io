@@ -35,7 +35,7 @@
 
 *	Multi-layered film through layer-by-layer self-assembly for gene delivery
 
-## PUBLICATIONS ([Google Scholar](https://scholar.google.com.hk/citations?user=kbGnu3IAAAAJ&hl=zh-CN) [ORCID](https://orcid.org/0000-0003-4074-7734))
+## PUBLICATIONS ([GoogleScholar](https://scholar.google.com.hk/citations?user=kbGnu3IAAAAJ&hl=zh-CN) [ORCID](https://orcid.org/0000-0003-4074-7734))
 
 - <b>Guodong Zhou</b>, Weitao Wang, Mao Peng. Molecular-level dispersion of rigid-rod sulfonated aromatic polyamides in epoxy resin for extraordinary improvement in both strength and toughness. *Polymer*. 2019;163:20-28.
 
