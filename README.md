@@ -37,7 +37,7 @@
 
 ## PUBLICATIONS ([GoogleScholar](https://scholar.google.com.hk/citations?user=kbGnu3IAAAAJ&hl=zh-CN) [ORCID](https://orcid.org/0000-0003-4074-7734))
 
-- Lin, X., <b>Zhou, G.<b> (co-first author), Liu, J., Yu, J., Effat, M. B., Wu, J., Ciucci, F., Rechargeable Battery Electrolytes Capable of Operating over Wide Temperature Windows and Delivering High Safety. Adv. Energy Mater. 2020, 2001235.
+- Lin, X., <b>Zhou, G.</b> (co-first author), Liu, J., Yu, J., Effat, M. B., Wu, J., Ciucci, F., Rechargeable Battery Electrolytes Capable of Operating over Wide Temperature Windows and Delivering High Safety. Adv. Energy Mater. 2020, 2001235.
 
 - <b>Guodong Zhou</b>, Weitao Wang, Mao Peng. Molecular-level dispersion of rigid-rod sulfonated aromatic polyamides in epoxy resin for extraordinary improvement in both strength and toughness. *Polymer*. 2019;163:20-28.
 
