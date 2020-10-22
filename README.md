@@ -37,6 +37,8 @@
 
 ## PUBLICATIONS ([GoogleScholar](https://scholar.google.com.hk/citations?user=kbGnu3IAAAAJ&hl=zh-CN) [ORCID](https://orcid.org/0000-0003-4074-7734))
 
+- <b>Zhou, G.</b>; Lin, X.; Liu, J.; Yu, J.; Wu, J.; Law, H. M.; Wang, Z.; Ciucci, F., In situ formation of poly(butyl acrylate)-based non-flammable elastic quasi-solid electrolyte for dendrite-free flexible lithium metal batteries with long cycle life for wearable devices. Energy Storage Materials 2020.
+
 - Lin, X.; <b>Zhou, G.</b> (co-first author); Liu, J.; Yu, J.; Effat, M. B.; Wu, J.; Ciucci, F., Rechargeable Battery Electrolytes Capable of Operating over Wide Temperature Windows and Delivering High Safety. Advanced Energy Materials 2020, n/a (n/a), 2001235.
 
 - Zhang, Z.; Liu, J.; Curcio, A.; Wang, Y.; Wu, J.; <b>Zhou, G.</b>; Tang, Z.; Ciucci, F., Atomically dispersed materials for rechargeable batteries. Nano Energy 2020, 76, 105085.
