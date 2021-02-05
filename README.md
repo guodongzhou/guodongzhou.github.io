@@ -23,9 +23,11 @@
 
 * First principle calculation/density functional theory
 
-* Sodium ion batteries
+* Solid-state electrolytes
 
-* Lithium ion batteries/ lithium metal batteries/ lithium sulfur batteries
+* Lithium ion batteries/ lithium metal batteries
+
+* Sodium ion batteries
 
 * Molecular composites
 
