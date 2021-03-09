@@ -23,19 +23,17 @@
 
 * First principle calculation/density functional theory
 
+* Molecular dynamics
+
 * Solid-state electrolytes
+
+* Polymer electrolytes
 
 * Lithium ion batteries/ lithium metal batteries
 
 * Sodium ion batteries
 
-* Molecular composites
-
-*	Functionalized aramid nanofibers
-
-*	Epoxy-based nanocomposites prepared with phase transfer method
-
-*	Multi-layered film through layer-by-layer self-assembly for gene delivery
+* Polymer-based nanocomposites
 
 ## PUBLICATIONS ([GoogleScholar](https://scholar.google.com.hk/citations?user=kbGnu3IAAAAJ&hl=zh-CN) [ORCID](https://orcid.org/0000-0003-4074-7734))
 
@@ -63,7 +61,7 @@
 
 * C programming, Python programming, MATLAB, HTML, CSS
 
-* machine learning, deep learning, Scikit-learn, PyTorch
+* Machine learning, Deep learning, Scikit-learn, PyTorch
 
 * 3ds Max modeling, OriginLab, data visualization
 
