@@ -1,10 +1,10 @@
 ## EDUCATION BACKGROUND
 
-#### 2019.06 - Now &ensp;&ensp;&ensp;Ph.D. student
+#### 2019.06 - Now &ensp;&ensp;&ensp;Ph.D. student (full scholarship)
 
 * Mechanical Engineering, The Hong Kong University of Science and Technology
 
-#### 2016.09 - 2019.03 &ensp;Master of Engineering
+#### 2016.09 - 2019.03 &ensp;Master of Engineering (recommended)
 
 * Polymer Materials, Zhejiang University
 
@@ -29,9 +29,9 @@
 
 * Polymer electrolytes
 
-* Lithium ion batteries/ lithium metal batteries
+* Lithium-ion batteries/ lithium metal batteries
 
-* Sodium ion batteries
+* Sodium-ion batteries
 
 * Polymer-based nanocomposites
 
