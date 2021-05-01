@@ -57,7 +57,19 @@
 
 - Peng, M.; Zhou, Y.; <b>Zhou, G.</b>; Yao, H., Triglycidyl para-aminophenol modified montmorillonites for epoxy nanocomposites and multi-scale carbon fiber reinforced composites with superior mechanical properties. Compos. Sci. Technol. 2017, 148 (Supplement C), 80-88.
 
-## IT skills
+
+## RESEARCH SKILLS
+
+* FTIR, Raman, UV-Vis, XPS, NMR
+* TGA, DSC, DMA
+* XRD
+* SEM, TEM
+* Mechanical test
+* Coin cell & pouch cell preparation
+* CV, LSV, GCD, t_Li^+
+* DFT, classical MD, AIMD
+
+## IT SKILLS
 
 * C programming, Python programming, MATLAB, HTML, CSS
 
