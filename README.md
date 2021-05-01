@@ -61,12 +61,19 @@
 ## RESEARCH SKILLS
 
 * FTIR, Raman, UV-Vis, XPS, NMR
+
 * TGA, DSC, DMA
+
 * XRD
+* 
 * SEM, TEM
+* 
 * Mechanical test
+* 
 * Coin cell & pouch cell preparation
+* 
 * CV, LSV, GCD, t_Li^+
+* 
 * DFT, classical MD, AIMD
 
 ## IT SKILLS
