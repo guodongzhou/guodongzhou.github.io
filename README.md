@@ -72,7 +72,7 @@
 
 * Coin cell & pouch cell preparation
 
-* CV, LSV, GCD, $t_{Li^+}$
+* CV, LSV, GCD, t<sub>Li<sup>+</sup></sub>
 
 * DFT, classical MD, AIMD
 
