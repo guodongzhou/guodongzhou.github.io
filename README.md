@@ -82,7 +82,7 @@
 
 * Machine learning, Deep learning, Scikit-learn, PyTorch
 
-* 3ds Max modeling, OriginLab, data visualization
+* 3ds Max modeling, OriginLab, Matplotlib
 
 * Blogs: <a href='https://blog.csdn.net/weixin_43957391'>CSDN</a>
 
