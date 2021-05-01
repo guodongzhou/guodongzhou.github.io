@@ -78,7 +78,7 @@
 
 ## IT SKILLS
 
-* C programming, Python programming, MATLAB, HTML, CSS
+* C programming, Python programming, MATLAB, HTML/CSS
 
 * Machine learning, Deep learning, Scikit-learn, PyTorch
 
