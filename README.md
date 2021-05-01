@@ -65,15 +65,15 @@
 * TGA, DSC, DMA
 
 * XRD
-* 
+
 * SEM, TEM
-* 
+
 * Mechanical test
-* 
+
 * Coin cell & pouch cell preparation
-* 
-* CV, LSV, GCD, t_Li^+
-* 
+
+* CV, LSV, GCD, $t_{Li^+}$
+
 * DFT, classical MD, AIMD
 
 ## IT SKILLS
