@@ -33,6 +33,8 @@
 
 * Sodium-ion batteries
 
+* Zinc-ion batteries
+
 * Polymer-based nanocomposites
 
 ## PUBLICATIONS ([GoogleScholar](https://scholar.google.com.hk/citations?user=kbGnu3IAAAAJ&hl=zh-CN) [ORCID](https://orcid.org/0000-0003-4074-7734))
