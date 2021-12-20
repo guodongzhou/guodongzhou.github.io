@@ -74,7 +74,7 @@
 
 * Coin cell & pouch cell preparation
 
-* CV, LSV, GCD, t<sub>Li<sup>+</sup></sub>
+* EIS, CV, LSV, GCD, t<sub>Li<sup>+</sup></sub>
 
 * DFT, classical MD, AIMD
 
@@ -94,4 +94,4 @@
 
 * CET-6: 612
 
-* Sports: bodybuilding (4th of Men's Physique, 2018 Bodybuilding Competition of Zhejiang University), powerlifting
+* Sports: bodybuilding (4th of Men's Physique, 2018 Bodybuilding Competition of Zhejiang University), powerlifting, running
