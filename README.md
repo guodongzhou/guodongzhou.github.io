@@ -1,4 +1,4 @@
-## EDUCATION BACKGROUND
+## EDUCATIONAL BACKGROUND
 
 #### 2019.06 - Now &ensp;&ensp;&ensp;Ph.D. student (full scholarship)
 
@@ -37,7 +37,15 @@
 
 * Polymer-based nanocomposites
 
+* Reverse electrodialysis
+
 ## PUBLICATIONS ([GoogleScholar](https://scholar.google.com.hk/citations?user=kbGnu3IAAAAJ&hl=zh-CN) [ORCID](https://orcid.org/0000-0003-4074-7734))
+
+- <b>Zhou, G.</b>; Yu, J.; Liu, J.; Lin, X.; Wang, Y.; Law, H. M.; Ciucci, F., Quasi-solid electrolytes with tailored lithium solvation for fast-charging lithium-metal batteries. Cell Reports Physical Science. (accepted)
+
+- Lin, X.; <b>Zhou, G.</b> (co-first author); Robson, MJ.; Yu, J.; Kwok, C.T.; Ciucci, F., Hydrated Deep Eutectic Electrolytes for High-Performance Zn-Ion Batteries Capable of Low-Temperature Operation. Advanced Functional Materials 2021, n/a, 2109322.
+
+- Lin, X.; <b>Zhou, G.</b> (co-first author); Liu, J.; Robson, MJ.; Yu, J.; Wang, Y.; Zhang, Z.; Kwok, C.T.; Ciucci, F., Bifunctional Hydrated Gel Electrolyte for Long-Cycling Zn-Ion Battery with NASICON-Type Cathode. Advanced Functional Materials 2021, 31, 2105717.
 
 - <b>Zhou, G.</b>; Lin, X.; Liu, J.; Yu, J.; Wu, J.; Law, H. M.; Wang, Z.; Ciucci, F., In situ formation of poly(butyl acrylate)-based non-flammable elastic quasi-solid electrolyte for dendrite-free flexible lithium metal batteries with long cycle life for wearable devices. Energy Storage Materials 2021, 34, 629-639.
 
@@ -62,21 +70,15 @@
 
 ## RESEARCH SKILLS
 
-* FTIR, Raman, UV-Vis, XPS, NMR
+* Electrolyte preparation: liquid, quasi-solid, and solid electrolytes
 
-* TGA, DSC, DMA
+* Battery assembly: coin cell, pouch cell
 
-* XRD
+* Battery test: EIS, CV, LSV, GCD, t<sub>Li<sup>+</sup></sub>
 
-* SEM, TEM
+* Materials characterization: FTIR, Raman, UV-Vis, XPS, NMR, XRD, TGA, DSC, DMA, SEM, TEM, Mechanical test
 
-* Mechanical test
-
-* Coin cell & pouch cell preparation
-
-* EIS, CV, LSV, GCD, t<sub>Li<sup>+</sup></sub>
-
-* DFT, classical MD, AIMD
+* Simulations: DFT, classical MD, AIMD
 
 ## IT SKILLS
 
@@ -95,3 +97,13 @@
 * CET-6: 612
 
 * Sports: bodybuilding (4th of Men's Physique, 2018 Bodybuilding Competition of Zhejiang University), powerlifting, running
+
+## TEACHING & COMMUNITY CONTRIBUTIONS
+
+* Teaching assistant (Mechanical Engineering, HKUST)
+    * MECH1902: Energy Systems in a Sustainable World
+    * MECH3630: Electrical Technology
+
+* Teaching assistant coordinator (Department of Mechanical and Aerospace Engineering): coordinator of all the teaching assistants
+
+* Peer review: Nature Energy, Nature Sustainability, Angewandte Chemie, Energy & Environmental Science, Advanced Materials, Advanced Energy Materials, Journal of Membrane Science, Journal of Materials Chemistry A, Solid State Ionics, Battery & Supercaps
