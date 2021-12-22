@@ -91,7 +91,7 @@
     * CET-6: 612 / 710
 
 * Sports
-    * Running
+    * Long-distance running
     * Powerlifting
     * Bodybuilding (4th of Men's Physique, 2018 Bodybuilding Competition of Zhejiang University)
 
