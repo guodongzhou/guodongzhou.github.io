@@ -7,14 +7,12 @@
 #### 2016.09 - 2019.03 &ensp;Master of Engineering (recommended)
 
 * Polymer Materials, Zhejiang University
-
   * Published 3 SCI papers as first author (total IF: 15)
   *	Outstanding Graduates of Zhejiang University
 
 #### 2012.09 - 2016.06 &ensp;Bachelor of Engineering
 
 * Macromolecular Materials and Engineering, Zhejiang University
-
   *	GPA: 3.81/4.0
   * Ranking: top 15%
   *	Outstanding Graduates of Zhejiang University
@@ -88,9 +86,9 @@
 
 ## LANGUAGE SKILLS & OTHER SKILLS
 
-* TOEFL-iBT: 111 (Reading-29, Listening-30, Speaking-22, Writing-30)
+* TOEFL-iBT: 111 / 120
 
-* CET-6: 612
+* CET-6: 612 / 710
 
 * Sports: bodybuilding (4th of Men's Physique, 2018 Bodybuilding Competition of Zhejiang University), powerlifting, running
 
