@@ -84,13 +84,16 @@
 
 * Blogs: <a href='https://blog.csdn.net/weixin_43957391'>CSDN</a>
 
-## LANGUAGE SKILLS & OTHER SKILLS
+## LANGUAGE & SPORTS
 
-* TOEFL-iBT: 111 / 120
+* English: proficient
+    * TOEFL-iBT: 111 / 120
+    * CET-6: 612 / 710
 
-* CET-6: 612 / 710
-
-* Sports: bodybuilding (4th of Men's Physique, 2018 Bodybuilding Competition of Zhejiang University), powerlifting, running
+* Sports
+    * Running
+    * Powerlifting
+    * Bodybuilding (4th of Men's Physique, 2018 Bodybuilding Competition of Zhejiang University)
 
 ## HONORS
 
