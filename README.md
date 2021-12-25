@@ -116,6 +116,8 @@
 * Teaching assistant (Mechanical Engineering, HKUST)
     * MECH1902: Energy Systems in a Sustainable World
     * MECH3630: Electrical Technology
+    * PDEV6800: Introduction to Teaching and Learning in Higher Education
+    * MECH6090: Seminar in Mechanical Engineering
 
 * Teaching assistant coordinator (Department of Mechanical and Aerospace Engineering, HKUST): coordinator of all the teaching assistants in the department
 
