@@ -117,6 +117,7 @@
 ## TEACHING & COMMUNITY CONTRIBUTIONS
 
 * Teaching assistant (Mechanical Engineering, HKUST):
+
     * MECH1902: Energy Systems in a Sustainable World
     * MECH3630: Electrical Technology
     * PDEV6800: Introduction to Teaching and Learning in Higher Education
