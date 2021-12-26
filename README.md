@@ -116,12 +116,12 @@
 
 ## TEACHING & COMMUNITY CONTRIBUTIONS
 
-* Teaching assistant (Mechanical Engineering, HKUST):
+* Teaching assistant (HKUST)
 
     * MECH1902: Energy Systems in a Sustainable World
     * MECH3630: Electrical Technology
-    * PDEV6800: Introduction to Teaching and Learning in Higher Education
     * MECH6090: Seminar in Mechanical Engineering
+    * PDEV6800: Introduction to Teaching and Learning in Higher Education
 
 * Academic peer review: *Nature Energy*, *Nature Sustainability*, *Angewandte Chemie*, *Energy & Environmental Science*, *Advanced Materials*, *Advanced Energy Materials*, *Journal of Membrane Science*, *Journal of Materials Chemistry A*, *Solid State Ionics*, *Battery & Supercaps*
 
