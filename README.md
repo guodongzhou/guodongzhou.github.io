@@ -119,6 +119,14 @@
     * PDEV6800: Introduction to Teaching and Learning in Higher Education
     * MECH6090: Seminar in Mechanical Engineering
 
-* Teaching assistant coordinator (Department of Mechanical and Aerospace Engineering, HKUST): coordinator of all the teaching assistants in the department
+* Academic peer review: *Nature Energy*, *Nature Sustainability*, *Angewandte Chemie*, *Energy & Environmental Science*, *Advanced Materials*, *Advanced Energy Materials*, *Journal of Membrane Science*, *Journal of Materials Chemistry A*, *Solid State Ionics*, *Battery & Supercaps*
 
-* Academic peer review: Nature Energy, Nature Sustainability, Angewandte Chemie, Energy & Environmental Science, Advanced Materials, Advanced Energy Materials, Journal of Membrane Science, Journal of Materials Chemistry A, Solid State Ionics, Battery & Supercaps
+## EXTRACURRICULAR WORK
+
+* Teaching assistant coordinator (Department of Mechanical and Aerospace Engineering, HKUST)
+
+* Bodybuilding promotion and guidance (Department of Polymer Science and Engineering, Zhejiang University)
+
+* Director of the Department of Sports (Lantian Campus, Zhejiang University)
+
+* Filing clerk (Zhejiang University)
