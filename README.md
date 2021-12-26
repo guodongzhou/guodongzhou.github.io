@@ -37,13 +37,13 @@
 
 - <b>Zhou, G.</b>; Yu, J.; Liu, J.; Lin, X.; Wang, Y.; Law, H. M.; Ciucci, F., Quasi-solid electrolytes with tailored lithium solvation for fast-charging lithium-metal batteries. *Cell Reports Physical Science*. (accepted)
 
-- Lin, X.; <b>Zhou, G.</b> (co-first author); Robson, MJ.; Yu, J.; Kwok, C.T.; Ciucci, F., Hydrated Deep Eutectic Electrolytes for High-Performance Zn-Ion Batteries Capable of Low-Temperature Operation. *Advanced Functional Materials* 2021, n/a, 2109322.
+- Lin, X.<sup>1</sup>; <b>Zhou, G.<sup>1</sup></b> (co-first author); Robson, MJ.; Yu, J.; Kwok, C.T.; Ciucci, F., Hydrated Deep Eutectic Electrolytes for High-Performance Zn-Ion Batteries Capable of Low-Temperature Operation. *Advanced Functional Materials* 2021, n/a, 2109322.
 
-- Lin, X.; <b>Zhou, G.</b> (co-first author); Liu, J.; Robson, MJ.; Yu, J.; Wang, Y.; Zhang, Z.; Kwok, C.T.; Ciucci, F., Bifunctional Hydrated Gel Electrolyte for Long-Cycling Zn-Ion Battery with NASICON-Type Cathode. *Advanced Functional Materials* 2021, 31, 2105717.
+- Lin, X.<sup>1</sup>; <b>Zhou, G.<sup>1</sup></b> (co-first author); Liu, J.<sup>1</sup>; Robson, MJ.; Yu, J.; Wang, Y.; Zhang, Z.; Kwok, C.T.; Ciucci, F., Bifunctional Hydrated Gel Electrolyte for Long-Cycling Zn-Ion Battery with NASICON-Type Cathode. *Advanced Functional Materials* 2021, 31, 2105717.
 
 - <b>Zhou, G.</b>; Lin, X.; Liu, J.; Yu, J.; Wu, J.; Law, H. M.; Wang, Z.; Ciucci, F., In situ formation of poly(butyl acrylate)-based non-flammable elastic quasi-solid electrolyte for dendrite-free flexible lithium metal batteries with long cycle life for wearable devices. *Energy Storage Materials* 2021, 34, 629-639.
 
-- Lin, X.; <b>Zhou, G.</b> (co-first author); Liu, J.; Yu, J.; Effat, M. B.; Wu, J.; Ciucci, F., Rechargeable Battery Electrolytes Capable of Operating over Wide Temperature Windows and Delivering High Safety. *Advanced Energy Materials* 2020, 10, 2001235.
+- Lin, X.<sup>1</sup>; <b>Zhou, G.<sup>1</sup></b> (co-first author); Liu, J.<sup>1</sup>; Yu, J.; Effat, M. B.; Wu, J.; Ciucci, F., Rechargeable Battery Electrolytes Capable of Operating over Wide Temperature Windows and Delivering High Safety. *Advanced Energy Materials* 2020, 10, 2001235.
 
 - Zhang, Z.; Liu, J.; Curcio, A.; Wang, Y.; Wu, J.; <b>Zhou, G.</b>; Tang, Z.; Ciucci, F., Atomically dispersed materials for rechargeable batteries. *Nano Energy* 2020, 76, 105085.
 
@@ -66,13 +66,16 @@
 
 * Electrolyte preparation: liquid, quasi-solid, and solid electrolytes
 
-* Battery assembly: coin cell, pouch cell
+* Battery assembly: coin cells, pouch cells, flexible batteries
 
-* Battery tests: EIS, CV, LSV, GCD, t<sub>Li<sup>+</sup></sub>
+* Battery tests: EIS, CV, LSV, GCD, *t*<sub>Li<sup>+</sup></sub>
 
 * Materials characterizations: FTIR, Raman, UV-Vis, XPS, NMR, XRD, TGA, DSC, DMA, SEM, TEM, Mechanical test
 
-* Simulations: Density Functional Theory (Gaussian, VASP), classical Molecular Dynamics (GROMACS), *Ab initio* Molecular Dynamics (CP2K)
+* Simulations:
+    * Density Functional Theory (Gaussian, VASP)
+    * Molecular Dynamics (GROMACS)
+    * *Ab initio* Molecular Dynamics (CP2K)
 
 ## IT SKILLS
 
