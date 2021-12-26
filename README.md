@@ -1,6 +1,6 @@
 ## EDUCATIONAL BACKGROUND
 
-#### 2019.06 - Now &ensp;&ensp;&ensp;Ph.D. student (full scholarship)
+#### 2019.06 - Now &ensp;&ensp;&ensp;PhD student (full scholarship)
 
 * Mechanical Engineering, The Hong Kong University of Science and Technology
 
@@ -93,7 +93,7 @@
     * TOEFL-iBT: 111 / 120
     * CET-6: 612 / 710
 
-* Sports
+* Sports:
     * Long-distance running
     * Powerlifting
     * Bodybuilding (4th of Men's Physique, 2018 Bodybuilding Competition of Zhejiang University)
@@ -116,7 +116,7 @@
 
 ## TEACHING & COMMUNITY CONTRIBUTIONS
 
-* Teaching assistant (Mechanical Engineering, HKUST)
+* Teaching assistant (Mechanical Engineering, HKUST):
     * MECH1902: Energy Systems in a Sustainable World
     * MECH3630: Electrical Technology
     * PDEV6800: Introduction to Teaching and Learning in Higher Education
