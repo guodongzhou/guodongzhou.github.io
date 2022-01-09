@@ -35,7 +35,7 @@
 
 ## PUBLICATIONS ([GoogleScholar](https://scholar.google.com.hk/citations?user=kbGnu3IAAAAJ&hl=zh-CN) / [ORCID](https://orcid.org/0000-0003-4074-7734) / [ResearchGate](https://www.researchgate.net/profile/Guodong-Zhou-3))
 
-- <b>Zhou, G.</b>; Yu, J.; Liu, J.; Lin, X.; Wang, Y.; Law, H. M.; Ciucci, F., Quasi-solid electrolytes with tailored lithium solvation for fast-charging lithium-metal batteries. *Cell Reports Physical Science*. (accepted)
+- <b>Zhou, G.</b>; Yu, J.; Liu, J.; Lin, X.; Wang, Y.; Law, H. M.; Ciucci, F., Quasi-solid electrolytes with tailored lithium solvation for fast-charging lithium-metal batteries. *Cell Reports Physical Science*. 2022, n/a, 100722.
 
 - Lin, X.<sup>1</sup>; <b>Zhou, G.<sup>1</sup></b> (co-first author); Robson, MJ.; Yu, J.; Kwok, C.T.; Ciucci, F., Hydrated Deep Eutectic Electrolytes for High-Performance Zn-Ion Batteries Capable of Low-Temperature Operation. *Advanced Functional Materials* 2021, n/a, 2109322.
 
