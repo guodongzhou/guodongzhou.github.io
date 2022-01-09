@@ -3,6 +3,7 @@
 #### 2019.06 - Now &ensp;&ensp;&ensp;PhD student (full scholarship)
 
 * Mechanical Engineering, The Hong Kong University of Science and Technology
+  * GPA: 4.075/4.3
 
 #### 2016.09 - 2019.03 &ensp;Master of Engineering (recommended)
 
