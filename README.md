@@ -38,9 +38,9 @@
 
 * Energy-efficient and environmentally-friendly smart seawater desalination system
 
-* Development of a Meta-solid-state Electrolyte in Li-ion Batteries
+* Development of a meta-solid-state electrolyte in Li-ion Batteries
 
-* Non-Flammable Solid-State Rechargeable Li-ion Batteries for Rescue and Public Safety Applications
+* Non-Flammable solid-State rechargeable Li-ion batteries for rescue and public safety applications
 
 * Development of functionalized aramid nanofibers and their composites
 
@@ -126,7 +126,7 @@
 
 - Lin X<sup>1</sup>, <b>Zhou G<sup>1</sup></b> (co-first author), Robson, MJ, Yu J, Kwok SCT, Ciucci F, Hydrated Deep Eutectic Electrolytes for High-Performance Zn-Ion Batteries Capable of Low-Temperature Operation. *Advanced Functional Materials* 2021:2109322.
 
-- Lin X<sup>1</sup>, <b>Zhou G<sup>1</sup></b> (co-first author), Liu J<sup>1</sup>, Robson MJ, Yu J, Wang Y, Zhang, Z, Kwok SCT, Ciucci F, Bifunctional Hydrated Gel Electrolyte for Long-Cycling Zn-Ion Battery with NASICON-Type Cathode. *Advanced Functional Materials* 2021:2105717.
+- Lin X<sup>1</sup>, <b>Zhou G<sup>1</sup></b> (co-first author), Liu J<sup>1</sup>, Robson MJ, Yu J, Wang Y, Zhang Z, Kwok SCT, Ciucci F, Bifunctional Hydrated Gel Electrolyte for Long-Cycling Zn-Ion Battery with NASICON-Type Cathode. *Advanced Functional Materials* 2021:2105717.
 
 - <b>Zhou G</b>, Lin X, Liu J, Yu J, Wu J, Law HM, Wang Z, Ciucci F, In situ formation of poly(butyl acrylate)-based non-flammable elastic quasi-solid electrolyte for dendrite-free flexible lithium metal batteries with long cycle life for wearable devices. *Energy Storage Materials* 2021:629-639.
 
@@ -140,10 +140,10 @@
 
 - <b>Zhou G</b>, Wang W, Peng M, Functionalized aramid nanofibers prepared by polymerization induced self-assembly for simultaneously reinforcing and toughening of epoxy and carbon fiber/epoxy multiscale composite. *Composite Science Technology* 2018:312-319.
 
-- <b>Zhou G</b>, Yao, H, Zhou Y, Wang W, Peng M, Self-assembled complexes of graphene oxide and oxidized vapor-grown carbon fiber for simultaneously enhancing the strength and toughness of epoxy and multi-scale carbon fiber/epoxy composites. *Carbon* 2018:6-18.
+- <b>Zhou G</b>, Yao H, Zhou Y, Wang W, Peng M, Self-assembled complexes of graphene oxide and oxidized vapor-grown carbon fiber for simultaneously enhancing the strength and toughness of epoxy and multi-scale carbon fiber/epoxy composites. *Carbon* 2018:6-18.
 
-- Yao, H, <b>Zhou G</b>, Wang W, Peng M, Silica nanoparticle-decorated alumina rough platelets for effective reinforcement of epoxy and hierarchical carbon fiber/epoxy composites. *Composites Part A: Applied Science and Manufacturing* 2018:53-61.
+- Yao H, <b>Zhou G</b>, Wang W, Peng M, Silica nanoparticle-decorated alumina rough platelets for effective reinforcement of epoxy and hierarchical carbon fiber/epoxy composites. *Composites Part A: Applied Science and Manufacturing* 2018:53-61.
 
-- Yao, H, <b>Zhou G</b>, Wang W, Peng M, Effect of polymer-grafted carbon nanofibers and nanotubes on the interlaminar shear strength and flexural strength of carbon fiber/epoxy multiscale composites. *Composite Structures* 2018:288-296.
+- Yao H, <b>Zhou G</b>, Wang W, Peng M, Effect of polymer-grafted carbon nanofibers and nanotubes on the interlaminar shear strength and flexural strength of carbon fiber/epoxy multiscale composites. *Composite Structures* 2018:288-296.
 
 - Peng M, Zhou Y, <b>Zhou G</b>, Yao H, Triglycidyl para-aminophenol modified montmorillonites for epoxy nanocomposites and multi-scale carbon fiber reinforced composites with superior mechanical properties. *Composite Science Technology* 2017:80-88.
