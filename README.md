@@ -49,13 +49,13 @@
 
 ## RESEARCH SKILLS
 
-* Electrolyte preparation: liquid, quasi-solid, and solid electrolytes
+* Electrolyte preparation: liquid electrolytes, quasi-solid electrolytes, solid electrolytes
 
 * Battery assembly: coin cells, pouch cells, flexible batteries
 
 * Battery tests: EIS, CV, LSV, GCD, *t*<sub>Li<sup>+</sup></sub>
 
-* Materials characterizations: FTIR, Raman, UV-Vis, XPS, NMR, XRD, TGA, DSC, DMA, SEM, TEM, Mechanical test
+* Materials characterizations: FTIR, Raman, UV-Vis, XPS, NMR, XRD, TGA, DSC, DMA, SEM, TEM, POM, Mechanical test
 
 * Simulations:
     * Density Functional Theory (Gaussian, VASP)
@@ -64,11 +64,11 @@
 
 ## IT SKILLS
 
-* C programming, Python programming, MATLAB, HTML/CSS
+* C programming, Python programming, MATLAB, HTML/CSS, Jupyter Notebook, Linux
 
 * Machine learning, Deep learning, Scikit-learn, PyTorch
 
-* 3ds Max modeling, OriginLab, Matplotlib
+* 3ds Max modeling, OriginLab, Matplotlib, Gnuplot
 
 * Blogs: <a href='https://blog.csdn.net/weixin_43957391'>CSDN</a>
 
@@ -102,7 +102,6 @@
 ## TEACHING & COMMUNITY CONTRIBUTIONS
 
 * Teaching assistant (HKUST)
-
     * MECH1902: Energy Systems in a Sustainable World
     * MECH3630: Electrical Technology
     * MECH6090: Seminar in Mechanical Engineering
