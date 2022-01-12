@@ -60,7 +60,7 @@
 * Simulations:
     * Density Functional Theory (Gaussian, VASP)
     * Molecular Dynamics (GROMACS)
-    * *Ab initio* Molecular Dynamics (CP2K)
+    * *Ab initio* Molecular Dynamics (CP2K, VASP)
 
 ## IT SKILLS
 
