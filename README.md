@@ -53,7 +53,7 @@
 
 * Battery assembly: coin cells, pouch cells, flexible batteries
 
-* Battery tests: EIS, CV, LSV, GCD, *t*<sub>Li<sup>+</sup></sub>
+* Battery tests: EIS, CV, LSV, GCD, coulombic efficiency, transference number
 
 * Materials characterizations: FTIR, Raman, UV-Vis, XPS, NMR, XRD, TGA, DSC, DMA, SEM, TEM, POM, Mechanical test
 
