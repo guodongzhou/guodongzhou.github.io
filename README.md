@@ -125,7 +125,7 @@
 
 -	Law HM, Yu J, Kwok SCT, <b>Zhou G</b>, Robson MJ, Wu J, Ciucci F. A hybrid dual-salt polymer electrolyte for sodium metal batteries with stable room temperature cycling performance. *Energy Storage Materials*. 2022:182-91.
 
--	Yu J, Lin X, Liu J, Yu JTT, Robson MJ, <b>Zhou G</b>, Law, H. M., Wang, H., Tang, B. Z., Ciucci, F. In Situ Fabricated Quasi-Solid Polymer Electrolyte for High-Energy-Density Lithium Metal Battery Capable of Subzero Operation. *Advanced Energy Materials*. 2021:2102932.
+-	Yu J<sup>1</sup>, Lin X<sup>1</sup>, Liu J<sup>1</sup>, Yu JTT, Robson MJ, <b>Zhou G</b>, Law, H. M., Wang, H., Tang, B. Z., Ciucci, F. In Situ Fabricated Quasi-Solid Polymer Electrolyte for High-Energy-Density Lithium Metal Battery Capable of Subzero Operation. *Advanced Energy Materials*. 2021:2102932.
 
 - <b>Zhou G</b>, Yu J, Liu J, Lin X, Wang Y, Law HM, Ciucci F, Quasi-solid electrolytes with tailored lithium solvation for fast-charging lithium-metal batteries. *Cell Reports Physical Science*. 2022:100722.
 
@@ -137,7 +137,7 @@
 
 - Lin X<sup>1</sup>, <b>Zhou G<sup>1</sup></b> (co-first author), Liu J<sup>1</sup>, Yu J, Effat MB, Wu J, Ciucci F, Rechargeable Battery Electrolytes Capable of Operating over Wide Temperature Windows and Delivering High Safety. *Advanced Energy Materials* 2020:2001235.
 
-- Zhang Z, Liu J, Curcio A, Wang Y, Wu J, <b>Zhou G</b>, Tang Z, Ciucci F, Atomically dispersed materials for rechargeable batteries. *Nano Energy* 2020:105085.
+- Zhang Z<sup>1</sup>, Liu J<sup>1</sup>, Curcio A, Wang Y, Wu J, <b>Zhou G</b>, Tang Z, Ciucci F, Atomically dispersed materials for rechargeable batteries. *Nano Energy* 2020:105085.
 
 - Wang W, <b>Zhou G</b>, Yu B, Peng M, New reactive rigid-rod aminated aromatic polyamide for the simultaneous strengthening and toughening of epoxy resin and carbon fiber/epoxy composites. *Composites Part B: Engineering* 2020:108044.
 
