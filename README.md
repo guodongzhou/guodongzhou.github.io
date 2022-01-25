@@ -121,6 +121,12 @@
 
 ## PUBLICATIONS ([GoogleScholar](https://scholar.google.com.hk/citations?user=kbGnu3IAAAAJ&hl=zh-CN) / [ORCID](https://orcid.org/0000-0003-4074-7734) / [ResearchGate](https://www.researchgate.net/profile/Guodong-Zhou-3))
 
+-	Wu J, Lin C, Liang Q, <b>Zhou G</b>, Liu J, Liang G, Wang M, Li B, Hu L, Ciucci F, Liu Q, Chen G, Yu X. Sodium-rich NASICON-structured cathodes for boosting the energy density and lifespan of sodium-free-anode sodium metal batteries. *InfoMat*. 2022:e12288.
+
+-	Law HM, Yu J, Kwok SCT, <b>Zhou G</b>, Robson MJ, Wu J, Ciucci F. A hybrid dual-salt polymer electrolyte for sodium metal batteries with stable room temperature cycling performance. *Energy Storage Materials*. 2022:182-91.
+
+-	Yu J, Lin X, Liu J, Yu JTT, Robson MJ, <b>Zhou G</b>, Law, H. M., Wang, H., Tang, B. Z., Ciucci, F. In Situ Fabricated Quasi-Solid Polymer Electrolyte for High-Energy-Density Lithium Metal Battery Capable of Subzero Operation. *Advanced Energy Materials*. 2021:2102932.
+
 - <b>Zhou G</b>, Yu J, Liu J, Lin X, Wang Y, Law HM, Ciucci F, Quasi-solid electrolytes with tailored lithium solvation for fast-charging lithium-metal batteries. *Cell Reports Physical Science*. 2022:100722.
 
 - Lin X<sup>1</sup>, <b>Zhou G<sup>1</sup></b> (co-first author), Robson, MJ, Yu J, Kwok SCT, Ciucci F, Hydrated Deep Eutectic Electrolytes for High-Performance Zn-Ion Batteries Capable of Low-Temperature Operation. *Advanced Functional Materials* 2021:2109322.
@@ -137,7 +143,7 @@
 
 - <b>Zhou G</b>, Wang W, Peng M, Molecular-level dispersion of rigid-rod sulfonated aromatic polyamides in epoxy resin for extraordinary improvement in both strength and toughness. *Polymer* 2019:20-28.
 
-- <b>Zhou G</b>, Wang W, Peng M, Functionalized aramid nanofibers prepared by polymerization induced self-assembly for simultaneously reinforcing and toughening of epoxy and carbon fiber/epoxy multiscale composite. *Composite Science Technology* 2018:312-319.
+- <b>Zhou G</b>, Wang W, Peng M, Functionalized aramid nanofibers prepared by polymerization induced self-assembly for simultaneously reinforcing and toughening of epoxy and carbon fiber/epoxy multiscale composite. *Composite Science and Technology* 2018:312-319.
 
 - <b>Zhou G</b>, Yao H, Zhou Y, Wang W, Peng M, Self-assembled complexes of graphene oxide and oxidized vapor-grown carbon fiber for simultaneously enhancing the strength and toughness of epoxy and multi-scale carbon fiber/epoxy composites. *Carbon* 2018:6-18.
 
@@ -145,4 +151,4 @@
 
 - Yao H, <b>Zhou G</b>, Wang W, Peng M, Effect of polymer-grafted carbon nanofibers and nanotubes on the interlaminar shear strength and flexural strength of carbon fiber/epoxy multiscale composites. *Composite Structures* 2018:288-296.
 
-- Peng M, Zhou Y, <b>Zhou G</b>, Yao H, Triglycidyl para-aminophenol modified montmorillonites for epoxy nanocomposites and multi-scale carbon fiber reinforced composites with superior mechanical properties. *Composite Science Technology* 2017:80-88.
+- Peng M, Zhou Y, <b>Zhou G</b>, Yao H, Triglycidyl para-aminophenol modified montmorillonites for epoxy nanocomposites and multi-scale carbon fiber reinforced composites with superior mechanical properties. *Composite Science and Technology* 2017:80-88.
