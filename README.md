@@ -58,9 +58,9 @@
 * Materials characterizations: FTIR, Raman, UV-Vis, XPS, NMR, XRD, TGA, DSC, DMA, SEM, TEM, POM, Mechanical test
 
 * Atomic simulations:
-    * Density Functional Theory (Gaussian, VASP)
+    * Density Functional Theory (Gaussian, ORCA, VASP)
     * Molecular Dynamics (GROMACS)
-    * *Ab initio* Molecular Dynamics (CP2K)
+    * *Ab initio* Molecular Dynamics (CP2K, ORCA)
 
 ## IT SKILLS
 
