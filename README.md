@@ -1,14 +1,16 @@
 ## EDUCATIONAL BACKGROUND
 
-#### 2019.06 - Now &ensp;&ensp;&ensp;PhD student (full scholarship)
+#### 2019.06 - 2022.11 &ensp;PhD student (full scholarship)
 
 * Mechanical Engineering, The Hong Kong University of Science and Technology
   * GPA: 4.075/4.3
+  * Published 8 SCI papers as first author
+  * Filed 2 US patents
 
 #### 2016.09 - 2019.03 &ensp;Master of Engineering (recommended)
 
 * Polymer Materials, Zhejiang University
-  * Published 3 SCI papers as first author (total IF: 15)
+  * Published 3 SCI papers as first author
   *	Outstanding Graduates of Zhejiang University
 
 #### 2012.09 - 2016.06 &ensp;Bachelor of Engineering
@@ -40,7 +42,7 @@
 
 * Development of a meta-solid-state electrolyte in Li-ion Batteries
 
-* Non-Flammable solid-State rechargeable Li-ion batteries for rescue and public safety applications
+* Non-Flammable solid-state rechargeable Li-ion batteries for rescue and public safety applications
 
 * Development of functionalized aramid nanofibers and their composites
 
