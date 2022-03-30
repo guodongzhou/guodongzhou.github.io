@@ -152,3 +152,9 @@
 - Yao H, <b>Zhou G</b>, Wang W, Peng M, Effect of polymer-grafted carbon nanofibers and nanotubes on the interlaminar shear strength and flexural strength of carbon fiber/epoxy multiscale composites. *Composite Structures* 2018:288-296.
 
 - Peng M, Zhou Y, <b>Zhou G</b>, Yao H, Triglycidyl para-aminophenol modified montmorillonites for epoxy nanocomposites and multi-scale carbon fiber reinforced composites with superior mechanical properties. *Composite Science and Technology* 2017:80-88.
+
+## PATENTS
+
+- Yu J, Kwok SCT, <b>Zhou G</b>, Lin X, Ciucci F. Quasi-solid polymer electrolyte for high-energy-density Li-metal battery capable of sub-zero operation. *US Provisional Patent Application*; 2021.
+
+- <b>Zhou G</b>, Kwok SCT, Yu J, Ciucci F. Synchronous Process for Producing Non-Flammable Quasi-Solid-State Electrolyte and Solid-State Batteries Using the Electrolyte. *US Provisional Patent Application*; 2020.
