@@ -4,7 +4,7 @@
 
 * Mechanical Engineering, The Hong Kong University of Science and Technology
   * GPA: 4.075/4.3
-  * Published 8 SCI papers as first author
+  * Published 5 SCI papers as first author
   * Filed 2 US patents
 
 #### 2016.09 - 2019.03 &ensp;Master of Engineering (recommended)
@@ -86,6 +86,8 @@
     * Bodybuilding (4th of Men's Physique, 2018 Bodybuilding Competition of Zhejiang University)
 
 ## HONORS
+
+* Postgraduate Studentship of HKUST
 
 * Outstanding Graduates of Zhejiang University
 
