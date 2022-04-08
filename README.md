@@ -125,13 +125,13 @@
 
 ## PUBLICATIONS ([GoogleScholar](https://scholar.google.com.hk/citations?user=kbGnu3IAAAAJ&hl=zh-CN) / [ORCID](https://orcid.org/0000-0003-4074-7734) / [ResearchGate](https://www.researchgate.net/profile/Guodong-Zhou-3))
 
+- <b>Zhou G</b>, Yu J, Liu J, Lin X, Wang Y, Law HM, Ciucci F, Quasi-solid electrolytes with tailored lithium solvation for fast-charging lithium-metal batteries. *Cell Reports Physical Science*. 2022:100722.
+
 -	Wu J, Lin C, Liang Q, <b>Zhou G</b>, Liu J, Liang G, Wang M, Li B, Hu L, Ciucci F, Liu Q, Chen G, Yu X. Sodium-rich NASICON-structured cathodes for boosting the energy density and lifespan of sodium-free-anode sodium metal batteries. *InfoMat*. 2022:e12288.
 
 -	Law HM, Yu J, Kwok SCT, <b>Zhou G</b>, Robson MJ, Wu J, Ciucci F. A hybrid dual-salt polymer electrolyte for sodium metal batteries with stable room temperature cycling performance. *Energy Storage Materials*. 2022:182-91.
 
 -	Yu J<sup>1</sup>, Lin X<sup>1</sup>, Liu J<sup>1</sup>, Yu JTT, Robson MJ, <b>Zhou G</b>, Law, H. M., Wang, H., Tang, B. Z., Ciucci, F. In Situ Fabricated Quasi-Solid Polymer Electrolyte for High-Energy-Density Lithium Metal Battery Capable of Subzero Operation. *Advanced Energy Materials*. 2021:2102932.
-
-- <b>Zhou G</b>, Yu J, Liu J, Lin X, Wang Y, Law HM, Ciucci F, Quasi-solid electrolytes with tailored lithium solvation for fast-charging lithium-metal batteries. *Cell Reports Physical Science*. 2022:100722.
 
 - Lin X<sup>1</sup>, <b>Zhou G<sup>1</sup></b> (co-first author), Robson, MJ, Yu J, Kwok SCT, Ciucci F, Hydrated Deep Eutectic Electrolytes for High-Performance Zn-Ion Batteries Capable of Low-Temperature Operation. *Advanced Functional Materials* 2021:2109322.
 
