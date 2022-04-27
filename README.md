@@ -4,7 +4,7 @@
 
 * Mechanical Engineering, The Hong Kong University of Science and Technology
   * GPA: 4.075/4.3
-  * Published 5 SCI papers as first author
+  * Published 6 SCI papers as first author
   * Filed 2 US patents
 
 #### 2016.09 - 2019.03 &ensp;Master of Engineering (recommended)
@@ -125,6 +125,8 @@
 * Filing clerk (Zhejiang University)
 
 ## PUBLICATIONS ([GoogleScholar](https://scholar.google.com.hk/citations?user=kbGnu3IAAAAJ&hl=zh-CN) / [ORCID](https://orcid.org/0000-0003-4074-7734) / [ResearchGate](https://www.researchgate.net/profile/Guodong-Zhou-3))
+
+- <b>Zhou G</b>, Mei Y, Wang Y, Zhou S, Bin Mamtaz MR, Tang CY, Ciucci F. Recovery of Salinity Gradient Energy with an Inorganic Sodium Superionic Conductor. *ACS Energy Letters*. 2022;7:1806-1813.
 
 - <b>Zhou G</b>, Yu J, Liu J, Lin X, Wang Y, Law HM, Ciucci F. Quasi-solid electrolytes with tailored lithium solvation for fast-charging lithium-metal batteries. *Cell Reports Physical Science*. 2022;3(2):100722.
 
