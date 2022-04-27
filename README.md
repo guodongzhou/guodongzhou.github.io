@@ -140,6 +140,8 @@
 
 - Lin X<sup>1</sup>, <b>Zhou G<sup>1</sup></b> (co-first author), Liu J<sup>1</sup>, Robson MJ, Yu J, Wang Y, Zhang Z, Kwok SCT, Ciucci F. Bifunctional Hydrated Gel Electrolyte for Long-Cycling Zn-Ion Battery with NASICON-Type Cathode. *Advanced Functional Materials*. 2021;31(42):2105717.
 
+- Yu J, Liu J, Lin X, Law HM, <b>Zhou G</b>, Kwok SCT, Robson MJ, Wu J, Ciucci, F. A solid-like dual-salt polymer electrolyte for Li-metal batteries capable of stable operation over an extended temperature range. *Energy Storage Materials*. 2021;37:609-18.
+
 - <b>Zhou G</b>, Lin X, Liu J, Yu J, Wu J, Law HM, Wang Z, Ciucci F. In situ formation of poly(butyl acrylate)-based non-flammable elastic quasi-solid electrolyte for dendrite-free flexible lithium metal batteries with long cycle life for wearable devices. *Energy Storage Materials*. 2021;34:629-39.
 
 - Lin X<sup>1</sup>, <b>Zhou G<sup>1</sup></b> (co-first author), Liu J<sup>1</sup>, Yu J, Effat MB, Wu J, Ciucci F. Rechargeable Battery Electrolytes Capable of Operating over Wide Temperature Windows and Delivering High Safety. *Advanced Energy Materials*. 2020;10(43):2001235.
