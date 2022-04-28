@@ -1,6 +1,6 @@
 ## EDUCATIONAL BACKGROUND
 
-#### 2019.06 - 2022.11 &ensp;PhD student (full scholarship)
+#### 2019.06 - 2022.11 &ensp;Doctor of Philosophy (full scholarship)
 
 * Mechanical Engineering, The Hong Kong University of Science and Technology
   * GPA: 4.075/4.3
@@ -134,7 +134,7 @@
 
 -	Law HM, Yu J, Kwok SCT, <b>Zhou G</b>, Robson MJ, Wu J, Ciucci F. A hybrid dual-salt polymer electrolyte for sodium metal batteries with stable room temperature cycling performance. *Energy Storage Materials*. 2022;46:182-91.
 
--	Yu J<sup>1</sup>, Lin X<sup>1</sup>, Liu J<sup>1</sup>, Yu JTT, Robson MJ, <b>Zhou G</b>, Law HM, Wang H, Tang BZ, Ciucci F. In Situ Fabricated Quasi-Solid Polymer Electrolyte for High-Energy-Density Lithium Metal Battery Capable of Subzero Operation. *Advanced Energy Materials*. 2021;12(2):2102932.
+-	Yu J<sup>1</sup>, Lin X<sup>1</sup>, Liu J<sup>1</sup>, Yu JTT, Robson MJ, <b>Zhou G</b>, Law HM, Wang H, Tang BZ, Ciucci F. In Situ Fabricated Quasi-Solid Polymer Electrolyte for High-Energy-Density Lithium Metal Battery Capable of Subzero Operation. *Advanced Energy Materials*. 2022;12(2):2102932.
 
 - Lin X<sup>1</sup>, <b>Zhou G<sup>1</sup></b> (co-first author), Robson MJ, Yu J, Kwok SCT, Ciucci F. Hydrated Deep Eutectic Electrolytes for High-Performance Zn-Ion Batteries Capable of Low-Temperature Operation. *Advanced Functional Materials*. 2021;32(14):2109322.
 
