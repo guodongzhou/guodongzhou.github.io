@@ -142,6 +142,8 @@
 
 - Yu J, Liu J, Lin X, Law HM, <b>Zhou G</b>, Kwok SCT, Robson MJ, Wu J, Ciucci, F. A solid-like dual-salt polymer electrolyte for Li-metal batteries capable of stable operation over an extended temperature range. *Energy Storage Materials*. 2021;37:609-18.
 
+- Lin X<sup>1</sup>, Yu J<sup>1</sup>, Effat MB<sup>1</sup>, <b>Zhou G</b>, Robson MJ, Kwok SCT, Li H, Zhan S, Shang Y, Ciucci F. Ultrathin and Non-Flammable Dual-Salt Polymer Electrolyte for High-Energy-Density Lithium-Metal Battery. *Advanced Functional Materials*. 2021;31(17):2010261.
+
 - <b>Zhou G</b>, Lin X, Liu J, Yu J, Wu J, Law HM, Wang Z, Ciucci F. In situ formation of poly(butyl acrylate)-based non-flammable elastic quasi-solid electrolyte for dendrite-free flexible lithium metal batteries with long cycle life for wearable devices. *Energy Storage Materials*. 2021;34:629-39.
 
 - Lin X<sup>1</sup>, <b>Zhou G<sup>1</sup></b> (co-first author), Liu J<sup>1</sup>, Yu J, Effat MB, Wu J, Ciucci F. Rechargeable Battery Electrolytes Capable of Operating over Wide Temperature Windows and Delivering High Safety. *Advanced Energy Materials*. 2020;10(43):2001235.
