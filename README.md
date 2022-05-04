@@ -132,7 +132,7 @@
 
 -	Wu J, Lin C, Liang Q, <b>Zhou G</b>, Liu J, Liang G, Wang M, Li B, Hu L, Ciucci F, Liu Q, Chen G, Yu X. Sodium-rich NASICON-structured cathodes for boosting the energy density and lifespan of sodium-free-anode sodium metal batteries. *InfoMat*. 2022;4(4):e12288.
 
--	Law HM, Yu J, Kwok SCT, <b>Zhou G</b>, Robson MJ, Wu J, Ciucci F. A hybrid dual-salt polymer electrolyte for sodium metal batteries with stable room temperature cycling performance. *Energy Storage Materials*. 2022;46:182-91.
+-	Law HM<sup>1</sup>, Yu J<sup>1</sup>, Kwok SCT, <b>Zhou G</b>, Robson MJ, Wu J, Ciucci F. A hybrid dual-salt polymer electrolyte for sodium metal batteries with stable room temperature cycling performance. *Energy Storage Materials*. 2022;46:182-91.
 
 -	Yu J<sup>1</sup>, Lin X<sup>1</sup>, Liu J<sup>1</sup>, Yu JTT, Robson MJ, <b>Zhou G</b>, Law HM, Wang H, Tang BZ, Ciucci F. In Situ Fabricated Quasi-Solid Polymer Electrolyte for High-Energy-Density Lithium Metal Battery Capable of Subzero Operation. *Advanced Energy Materials*. 2022;12(2):2102932.
 
