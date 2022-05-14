@@ -126,7 +126,7 @@
 
 ## PUBLICATIONS ([GoogleScholar](https://scholar.google.com.hk/citations?user=kbGnu3IAAAAJ&hl=zh-CN) / [ORCID](https://orcid.org/0000-0003-4074-7734) / [ResearchGate](https://www.researchgate.net/profile/Guodong-Zhou-3))
 
-- <b>Zhou G<sup>1</sup></b>, Mei Y<sup>1</sup>, Wang Y, Zhou S, Bin Mamtaz MR, Tang CY, Ciucci F. Recovery of Salinity Gradient Energy with an Inorganic Sodium Superionic Conductor. *ACS Energy Letters*. 2022;7:1806-1813.
+- <b>Zhou G<sup>1</sup></b>, Mei Y<sup>1</sup>, Wang Y, Zhou S, Bin Mamtaz MR, Tang CY, Ciucci F. Recovery of Salinity Gradient Energy with an Inorganic Sodium Superionic Conductor. *ACS Energy Letters*. 2022;7(5):1806-1813.
 
 - <b>Zhou G</b>, Yu J, Liu J, Lin X, Wang Y, Law HM, Ciucci F. Quasi-solid electrolytes with tailored lithium solvation for fast-charging lithium metal batteries. *Cell Reports Physical Science*. 2022;3(2):100722.
 
