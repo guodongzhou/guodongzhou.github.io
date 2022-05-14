@@ -43,12 +43,11 @@
 
 * Development of a meta-solid-state electrolyte in Li-ion Batteries
 
-* Non-Flammable solid-state rechargeable Li-ion batteries for rescue and public safety applications
+* Non-flammable solid-state rechargeable Li-ion batteries for rescue and public safety applications
 
 * Development of functionalized aramid nanofibers and their composites
 
 * Preparation of epoxy-based composites with fast-phase-transfer method
-
 
 ## RESEARCH SKILLS
 
