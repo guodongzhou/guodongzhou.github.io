@@ -88,6 +88,8 @@
 
 ## HONORS
 
+* HKUST RedBird Academic Excellence Award
+
 * Postgraduate Studentship of HKUST
 
 * Outstanding Graduates of Zhejiang University
