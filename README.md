@@ -6,6 +6,7 @@
   * GPA: 4.075/4.3
   * Published 6 SCI papers as first author
   * Filed 2 US patents
+  * HKUST RedBird Academic Excellence Award
 
 #### 2016.09 - 2019.03 &ensp;Master of Engineering (recommended)
 
