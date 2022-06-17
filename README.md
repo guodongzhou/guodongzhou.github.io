@@ -24,17 +24,17 @@
 ## RESEARCH FIELDS
 
 * Energy storage
-    * Lithium-metal batteries
-    * Lithium-ion batteries
-    * Sodium-ion batteries
-    * Zinc-ion batteries
+    * Lithium batteries
+    * Sodium batteries
+    * Zinc batteries
     * Solid-state electrolytes
     * Atomic simulations
 
 * Energy conversion
     * Reverse electrodialysis
+    * Fuel cell
 
-* Nanocomposites
+* Nanomaterials
     * Functionalized aramid nanofibers
     * Epoxy-based nanocomposites
 
