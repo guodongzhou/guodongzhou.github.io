@@ -128,6 +128,8 @@
 
 ## PUBLICATIONS ([GoogleScholar](https://scholar.google.com.hk/citations?user=kbGnu3IAAAAJ&hl=zh-CN) / [ORCID](https://orcid.org/0000-0003-4074-7734) / [ResearchGate](https://www.researchgate.net/profile/Guodong-Zhou-3))
 
+- <b>Zhou G</b>, Yu J, Ciucci F. In situ prepared all-fluorinated polymer electrolyte for energy-dense high-voltage lithium-metal batteries. *Energy Storage Materials*. 2023;55:642-651.
+
 - <b>Zhou G<sup>1</sup></b>, Mei Y<sup>1</sup>, Wang Y, Zhou S, Bin Mamtaz MR, Tang CY, Ciucci F. Recovery of Salinity Gradient Energy with an Inorganic Sodium Superionic Conductor. *ACS Energy Letters*. 2022;7(5):1806-1813.
 
 - <b>Zhou G</b>, Yu J, Liu J, Lin X, Wang Y, Law HM, Ciucci F. Quasi-solid electrolytes with tailored lithium solvation for fast-charging lithium metal batteries. *Cell Reports Physical Science*. 2022;3(2):100722.
@@ -146,7 +148,7 @@
 
 - Lin X<sup>1</sup>, Yu J<sup>1</sup>, Effat MB<sup>1</sup>, <b>Zhou G</b>, Robson MJ, Kwok SCT, Li H, Zhan S, Shang Y, Ciucci F. Ultrathin and Non-Flammable Dual-Salt Polymer Electrolyte for High-Energy-Density Lithium-Metal Battery. *Advanced Functional Materials*. 2021;31(17):2010261.
 
-- <b>Zhou G</b>, Lin X, Liu J, Yu J, Wu J, Law HM, Wang Z, Ciucci F. In situ formation of poly(butyl acrylate)-based non-flammable elastic quasi-solid electrolyte for dendrite-free flexible lithium metal batteries with long cycle life for wearable devices. *Energy Storage Materials*. 2021;34:629-39.
+- <b>Zhou G</b>, Lin X, Liu J, Yu J, Wu J, Law HM, Wang Z, Ciucci F. In situ formation of poly(butyl acrylate)-based non-flammable elastic quasi-solid electrolyte for dendrite-free flexible lithium metal batteries with long cycle life for wearable devices. *Energy Storage Materials*. 2021;34:629-639.
 
 - Lin X<sup>1</sup>, <b>Zhou G<sup>1</sup></b> (co-first author), Liu J<sup>1</sup>, Yu J, Effat MB, Wu J, Ciucci F. Rechargeable Battery Electrolytes Capable of Operating over Wide Temperature Windows and Delivering High Safety. *Advanced Energy Materials*. 2020;10(43):2001235.
 
