@@ -4,7 +4,7 @@
 
 * Mechanical Engineering, The Hong Kong University of Science and Technology
   * GPA: 4.075/4.3
-  * Published 6 SCI papers as first author
+  * Published 7 SCI papers as first author
   * Filed 2 US patents
   * HKUST RedBird Academic Excellence Award
 
