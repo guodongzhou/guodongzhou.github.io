@@ -1,6 +1,6 @@
 ## EDUCATIONAL BACKGROUND
 
-#### 2019.06 - 2022.11 &ensp;Doctor of Philosophy (full scholarship)
+#### 2019.06 - 2022.09 &ensp;Doctor of Philosophy (full scholarship)
 
 * Mechanical Engineering, The Hong Kong University of Science and Technology
   * GPA: 4.075/4.3
