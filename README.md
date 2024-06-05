@@ -2,7 +2,8 @@
 
 #### 2019.06 - 2022.09 &ensp;Doctor of Philosophy (full scholarship)
 
-* Mechanical Engineering, The Hong Kong University of Science and Technology
+* The Hong Kong University of Science and Technology
+* Mechanical Engineering
   * GPA: 4.075/4.3
   * Published 7 SCI papers as first author
   * Filed 2 US patents
@@ -10,13 +11,15 @@
 
 #### 2016.09 - 2019.03 &ensp;Master of Engineering (recommended)
 
-* Polymer Materials, Zhejiang University
+* Zhejiang University
+* Polymer Materials
   * Published 3 SCI papers as first author
   *	Outstanding Graduates of Zhejiang University
 
 #### 2012.09 - 2016.06 &ensp;Bachelor of Engineering
 
-* Macromolecular Materials and Engineering, Zhejiang University
+* Zhejiang University
+* Macromolecular Materials and Engineering
   *	GPA: 3.81/4.0
   * Ranking: top 15%
   *	Outstanding Graduates of Zhejiang University
