@@ -35,7 +35,6 @@
 
 * Energy conversion
     * Reverse electrodialysis
-    * Fuel cell
 
 * Nanomaterials
     * Functionalized aramid nanofibers
@@ -131,11 +130,13 @@
 
 ## PUBLICATIONS ([GoogleScholar](https://scholar.google.com.hk/citations?user=kbGnu3IAAAAJ&hl=zh-CN) / [ORCID](https://orcid.org/0000-0003-4074-7734) / [ResearchGate](https://www.researchgate.net/profile/Guodong-Zhou-3))
 
-- Yu J<sup>1</sup>, <b>Zhou G<sup>1</sup></b>, Li Y, Wang Y, Chen D, Ciucci F. Improving Room-Temperature Li-Metal Battery Performance by In Situ Creation of Fast Li+ Transport Pathways in a Polymer-Ceramic Electrolyte. *Small*. 2023,2302691.
+- Yu B, Wang W, <b>Zhou G</b>, Song Y, Peng M. Rapid and scalable synthesis of novel carboxylated aramid nanofibers for simultaneously improving the strength and toughness of carbon fiber/epoxy laminates. *Composites Science and Technology*. 2024,245,110320.
+
+- Yu J<sup>1</sup>, <b>Zhou G<sup>1</sup></b>, Li Y, Wang Y, Chen D, Ciucci F. Improving Room-Temperature Li-Metal Battery Performance by In Situ Creation of Fast Li+ Transport Pathways in a Polymer-Ceramic Electrolyte. *Small*. 2023,19(39),2302691.
 
 - Wang Y, Liu J, Song Y, Yu J, Tian Y, Robson MJ, Wang J, Zhang Z, Lin X, <b>Zhou G</b>, Wang Z, Shen L, Zhao H, Grasso S, Ciucci F. High-Entropy Perovskites for Energy Conversion and Storage: Design, Synthesis, and Potential Applications. *Small Methods*. 2023,7(4),2201138.
 
-- Shen L, Wang Y, Yu J, <b>Zhou G</b>, Liu J, Robson MJ, Zhou Y, Effat MB, Ciucci F. *Journal of Materials Chemistry A*. 2023,11(35),18984-18995.
+- Shen L, Wang Y, Yu J, <b>Zhou G</b>, Liu J, Robson MJ, Zhou Y, Effat MB, Ciucci F. Strain engineering of antiperovskite materials for solid-state Li batteries: a computation-guided substitution approach. *Journal of Materials Chemistry A*. 2023,11(35),18984-18995.
 
 - <b>Zhou G</b>, Yu J, Ciucci F. In situ prepared all-fluorinated polymer electrolyte for energy-dense high-voltage lithium-metal batteries. *Energy Storage Materials*. 2023,55,642-651.
 
