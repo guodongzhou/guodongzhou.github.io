@@ -1,3 +1,7 @@
+## PROFESSIONAL EXPERIENCE
+
+#### 2022.10 - Now &ensp;Chief Engineer in Energy Storage
+
 ## EDUCATIONAL BACKGROUND
 
 #### 2019.06 - 2022.09 &ensp;Doctor of Philosophy (full scholarship)
