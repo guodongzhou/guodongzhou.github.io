@@ -1,6 +1,6 @@
 ## PROFESSIONAL EXPERIENCE
 
-#### 2022.10 - Now &ensp;Chief Engineer in Energy Storage
+#### 2022.10 - Now &ensp;Chief R&D Engineer in Energy Storage
 
 ## EDUCATIONAL BACKGROUND
 
@@ -60,7 +60,7 @@
 
 * Electrolyte preparation: liquid electrolytes, quasi-solid electrolytes, solid electrolytes
 
-* Battery assembly: coin cells, pouch cells, flexible batteries
+* Battery assembly: coin cells, pouch cells, flexible batteries, blade batteries
 
 * Battery tests: EIS, CV, LSV, GCD, coulombic efficiency, transference number
 
