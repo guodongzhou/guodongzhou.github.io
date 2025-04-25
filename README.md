@@ -186,4 +186,4 @@
 
 - Yu J, Kwok SCT, <b>Zhou G</b>, Lin X, Ciucci F. Quasi-solid polymer electrolyte for high-energy-density Li-metal battery capable of sub-zero operation. *US Provisional Patent Application*. 2021.
 
-- <b>Zhou G</b>, Kwok SCT, Yu J, Ciucci F. Synchronous Process for Producing Non-Flammable Quasi-Solid-State Electrolyte and Solid-State Batteries Using the Electrolyte. *US Provisional Patent Application*. 2020.
+- <b>Zhou G</b>, Kwok SCT, Yu J, Ciucci F. Synchronous Process for Producing Non-Flammable Quasi-Solid-State Electrolyte and Solid-State Batteries Using the Electrolyte. *US Provisional Patent Application*. US20220367910A1. 2020.
